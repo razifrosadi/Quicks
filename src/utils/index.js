@@ -1,8 +1,8 @@
 const inbox = [
     {
         id: '1',
-        img1: './public/person_24px-black.svg',
-        img2: './public/icon-profile-white.svg',
+        img1: './public/images/person_24px-black.svg',
+        img2: './public/images/icon-profile-white.svg',
         name: '109220-Naturalization',
         date: 'January 1,2021 19:10',
         paraghrap1: 'Cameron Phillips :',
@@ -10,8 +10,8 @@ const inbox = [
     },
     {
         id: '2',
-        img1: './public/person_24px-black.svg',
-        img2: './public/icon-profile-white.svg',
+        img1: './public/images/person_24px-black.svg',
+        img2: './public/images/icon-profile-white.svg',
         name: 'Jeannette Moraima Guaman Chamba',
         date: '02/06/2021 10:45',
         paraghrap1: 'Ellen :',
@@ -19,8 +19,8 @@ const inbox = [
     },
     {
         id: '3',
-        img1: './public/person_24px-black.svg',
-        img2: './public/icon-profile-white.svg',
+        img1: './public/images/person_24px-black.svg',
+        img2: './public/images/icon-profile-white.svg',
         name: '8405-Diana SALAZAR MUNGUIA',
         date: '01/06/2021 12:19',
         paraghrap1: 'Cameron Phillips :',
@@ -28,8 +28,8 @@ const inbox = [
     },
     {
         id: '4',
-        img1: './public/person_24px-black.svg',
-        img2: './public/icon-profile-white.svg',
+        img1: './public/images/person_24px-black.svg',
+        img2: './public/images/icon-profile-white.svg',
         name: 'FastVisa Support',
         date: '01/06/2021 12:19',
         paraghrap1: '',
