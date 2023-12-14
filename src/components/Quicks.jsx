@@ -62,9 +62,9 @@ const Quicks = () => {
         <div className='icons-container'>
           <a href='#' onClick={handleIconClick} className='icon1' style={{ display: isIcon1Hidden ? 'none' : 'block' }}>
             {isIconClicked ? (
-              <img src='./public/images/icons1.svg' alt='Icon 1' className='icon1' />
+              <img src='./public/images/icons1.png' alt='Icon 1' className='icon1' />
             ) : (
-              <img src='./public/images/icons1.svg' alt='Icon 1' className='icon1' />
+              <img src='./public/images/icons1.png' alt='Icon 1' className='icon1' />
             )}
           </a>
           {isIconClicked && (
