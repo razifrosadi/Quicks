@@ -1,4 +1,3 @@
-// ChatRoom.jsx
 import React from 'react';
 
 const ChatRoom = ({ selectedRoom, onClose, inboxData }) => {
