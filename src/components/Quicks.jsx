@@ -62,9 +62,9 @@ const Quicks = () => {
         <div className='icons-container'>
           <a href='#' onClick={handleIconClick} className='icon1' style={{ display: isIcon1Hidden ? 'none' : 'block' }}>
             {isIconClicked ? (
-              <img src='src\assets\icons1.svg' alt='Icon 1' className='icon1' />
+              <img src='src\assets\icons1.png' alt='Icon 1' className='icon1' />
             ) : (
-              <img src='src\assets\icons1.svg' alt='Icon 1' className='icon1' />
+              <img src='src\assets\icons1.png' alt='Icon 1' className='icon1' />
             )}
           </a>
           {isIconClicked && (
@@ -72,13 +72,13 @@ const Quicks = () => {
               <div className='icon2'>
                 <h4>Inbox</h4>
                 <a href='#' onClick={handleIcon2Click}>
-                  <img src='src\assets\icons2.svg' alt='Icon 2' />
+                  <img src='src\assets\icons2.png' alt='Icon 2' />
                 </a>
               </div>
               <div className='icon3'>
                 <h4>Task</h4>
                 <a href='#' onClick={handleIconClick}>
-                  <img src='src\assets\icons3.svg' alt='Icon 3' />
+                  <img src='src\assets\icons3.png' alt='Icon 3' />
                 </a>
               </div>
             </>
@@ -88,12 +88,12 @@ const Quicks = () => {
               <div className='icon4'>
                 <h4></h4>
                 <a href='#' onClick={handleIcon4Click}>
-                  <img src='src\assets\icons4.svg' alt='Icon 4' />
+                  <img src='src\assets\icons4.png' alt='Icon 4' />
                 </a>
               </div>
               <div className='icon3-clone'>
                 <a href='#' onClick={handleIcon4Click}>
-                  <img src='src\assets\icons3.svg' alt='Icon 3' />
+                  <img src='src\assets\icons3.png' alt='Icon 3' />
                 </a>
               </div>
             </>
