@@ -12,7 +12,7 @@ const ChatRoom = ({ selectedRoom, onClose, inboxData }) => {
           <div className='header-chatroom'>
             <div className='arrow-icon'>
                 <a href='#' onClick={onClose}>
-                    <img src="src\assets\arrow.png" alt="arrow" />
+                    <img src="~src\assets\arrow.png" alt="arrow" />
                 </a>
           </div>
             <h2>{selectedRoomData.name}</h2>
